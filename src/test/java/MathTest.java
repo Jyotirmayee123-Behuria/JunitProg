@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.*;
 public class MathTest {
     @Test
+
     void CheckMathMax(){
         int lowerNum=45;
         int higherNum=50;
